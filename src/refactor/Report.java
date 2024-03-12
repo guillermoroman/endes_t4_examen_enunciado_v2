@@ -16,5 +16,6 @@ class Report {
 
         // imprimir conclusión
         System.out.println("Conclusión del Reporte");
+
     }
 }
